@@ -65,7 +65,7 @@ To detect the marked bubbles for each question, the non-pixel value of each bubb
 
 ![OMR Example](./assets/PPT/gif.gif)
 =======
-# Automated-OMR-Evaluation-Scoring-System
+# Statement Title : Automated-OMR-Evaluation-Scoring-System
 
 ## Created By : PALLAVI PESALAVARI
-## Fron : MADANAPALLE INSTITUTE OF TECHNOLOGY AND SCIENCE
+## From : MADANAPALLE INSTITUTE OF TECHNOLOGY AND SCIENCE
