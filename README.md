@@ -18,7 +18,7 @@ Here’s a glimpse of the website:
 
 ## Repository Link
 
-Explore the codebase on GitHub: [OMR Sheet Evaluation System](https://github.com/Pallavipesalavari/PALLAVI-PESALAVARI-Automated-OMR-Evaluation-Scoring-System.git)
+Explore the codebase on GitHub: [ Automated OMR Sheet Evaluation System](https://github.com/Pallavipesalavari/PALLAVI-PESALAVARI-Automated-OMR-Evaluation-Scoring-System.git)
 
 ## Features and Key Points
 
