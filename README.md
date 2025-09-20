@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# OMR Sheet Evaluation System
+#  Automated OMR Sheet Evaluation System
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=yashchinchole/OMR-Sheet-Evaluation-System)
 
