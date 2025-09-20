@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OMR Sheet Evaluation System
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=yashchinchole/OMR-Sheet-Evaluation-System)
@@ -66,3 +67,6 @@ To detect the marked bubbles for each question, the non-pixel value of each bubb
 ## Sample Example
 
 ![OMR Example](./assets/PPT/gif.gif)
+=======
+# PALLAVI-PESALAVARI-Automated-OMR-Evaluation-Scoring-System
+>>>>>>> 9b7c698ddefd03699676b4dd9b4662bdc8e51ef6
